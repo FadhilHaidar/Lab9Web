@@ -14,15 +14,17 @@
 
 ## IMPLEMENTASI PROGRAM
 
-1. Struktur Direktori
+**1. Struktur Direktori**
 
 Struktur direktori program menggunakan pola modular sebagai berikut:
 
-2. Routing di index.php
+<img width="1448" height="1429" alt="image" src="https://github.com/user-attachments/assets/c3348c65-dd4a-415d-93af-f71945dee6f8" />
+
+**2. Routing di index.php**
 
 File index.php bertugas membaca nilai page dan memutuskan view mana yang di-load. Jika halaman tidak ada, sistem akan menampilkan pesan 404.
 
-3. Template: header dan footer
+**3. Template: header dan footer**
 
 Template ini digunakan untuk menyatukan tampilan proyek sehingga semua halaman memiliki UI yang konsisten.
 
@@ -30,7 +32,7 @@ Template ini digunakan untuk menyatukan tampilan proyek sehingga semua halaman m
 
 - footer.php menutup struktur HTML dan menambahkan file JavaScript.
 
-4. CRUD dengan Upload Gambar
+**4. CRUD dengan Upload Gambar**
 
 Operasi CRUD diimplementasikan pada folder views/user/. Setiap operasi memiliki file terpisah:
 
@@ -50,7 +52,7 @@ Upload gambar memiliki validasi:
 
 - Nama file digenerate otomatis agar tidak bertabrakan.
 
-5. Screenshot Tampilan (Placeholder)
+**5. Screenshot Tampilan (Placeholder)**
 
 (Kamu tinggal ganti dengan screenshot asli)
 
@@ -66,4 +68,4 @@ screenshot_edit.png
 Hasil upload gambar
 screenshot_upload.png
 
-6. SQL Schema
+**6. SQL Schema**
