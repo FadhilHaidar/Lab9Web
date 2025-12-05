@@ -16,33 +16,7 @@
 
 1. Struktur Direktori Project
 
-project/
-│– index.php
-│
-│– config/
-│   ├─ database.php
-│   ├─ helpers.php
-│
-│– views/
-│   ├─ templates/
-│   │   ├─ header.php
-│   │   └─ footer.php
-│   │
-│   ├─ user/
-│   │   ├─ list.php
-│   │   ├─ add.php
-│   │   ├─ edit.php
-│   │   └─ delete.php
-│   │
-│   ├─ auth/
-│       ├─ login.php
-│       └─ logout.php
-│
-│– assets/
-│   ├─ css/
-│   └─ js/
-│
-│– gambar/
+<img width="196" height="576" alt="image" src="https://github.com/user-attachments/assets/e47c1061-7fe7-44b5-a48d-019e549d85fd" />
 
 Tujuan struktur ini:
 
